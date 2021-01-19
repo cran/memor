@@ -1,6 +1,6 @@
 Package: memor
 Title: A 'rmarkdown' Template that Can be Highly Customized
-Version: 0.2.2
+Version: 0.2.3
 Authors@R: c(
     person("Hao", "Zhu", email = "haozhu233@gmail.com", role = c("aut", "cre"), 
     comment = c(ORCID = '0000-0002-3386-6076')),
@@ -21,11 +21,11 @@ VignetteBuilder: knitr
 Encoding: UTF-8
 RoxygenNote: 7.1.0
 NeedsCompilation: no
-Packaged: 2020-05-10 04:23:12 UTC; haozhu
+Packaged: 2021-01-19 05:07:49 UTC; haozhu
 Author: Hao Zhu [aut, cre] (<https://orcid.org/0000-0002-3386-6076>),
   Timothy Tsai [aut] (<https://orcid.org/0000-0002-0274-8042>),
   Thomas Travison [aut],
   Mikhail Popov [ctb]
 Maintainer: Hao Zhu <haozhu233@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-05-10 07:20:02 UTC
+Date/Publication: 2021-01-19 06:50:02 UTC

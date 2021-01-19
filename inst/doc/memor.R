@@ -1,8 +1,8 @@
-## ----setup, include = FALSE----------------------------------------------
+## ----setup, include = FALSE---------------------------------------------------
 library(knitr)
 opts_chunk$set(warning = FALSE, message = FALSE, fig.pos = "h")
 
-## ---- eval=FALSE---------------------------------------------------------
+## ---- eval=FALSE--------------------------------------------------------------
 #  install.packages("memor")
 #  
 #  # For dev version
